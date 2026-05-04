@@ -1,3 +1,13 @@
+/** Project: Solo Lab 7 Assignment
+ * Purpose Details: SpaceGame Mods
+ * Course: IST 242 - Joe Oakes
+ * Author: Jason Mathew
+ * Date Developed: 05/01/2026
+ * Last Date Changed: 05/03/2026
+ * Rev: 1.0
+
+ */
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
